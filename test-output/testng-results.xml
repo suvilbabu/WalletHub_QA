@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="100590" started-at="2018-07-29T10:21:07Z" finished-at="2018-07-29T10:22:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="100590" started-at="2018-07-29T10:21:07Z" finished-at="2018-07-29T10:22:48Z">
+      <class name="com.fb.testcase.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.fb.testcase.LoginTest@38bc8ab5]" name="setup" is-config="true" duration-ms="22853" started-at="2018-07-29T10:21:07Z" finished-at="2018-07-29T10:21:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="logintest()[pri:0, instance:com.fb.testcase.LoginTest@38bc8ab5]" name="logintest" duration-ms="65670" started-at="2018-07-29T10:21:30Z" finished-at="2018-07-29T10:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.fb.testcase.LoginTest@38bc8ab5]" name="teardown" is-config="true" duration-ms="12020" started-at="2018-07-29T10:22:36Z" finished-at="2018-07-29T10:22:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.fb.testcase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
